@@ -17,8 +17,8 @@ In this coding test, you will be asked to build a simple RESTful API using Node.
 -   You should use the @nestjs/swagger module to generate an interactive  APIdocumentation using OpenAPI.\
 **Instructions**
 
--   Fork this repository and clone it to your local machine.
--   Create a new branch with your name and the date of the test (e.g., john-doe-2024-02-14).
+-   Create a new repository  with your name and the date of the test (e.g., john-doe-2024-02-14).
+-   Share the repository link via eamil
 -   Install the dependencies using npm install.
 -   Create a .env file in the root of the project and add the following variables:
 
